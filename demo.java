@@ -1,3 +1,1 @@
-Text file
-Added one more line 
-
+Deleted 2 Lines 
